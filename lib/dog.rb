@@ -9,6 +9,6 @@ def name=(dog_name)
   
   lassie = Dog.new
 lassie.name = "Lassie"
-Lassie.name
+lassie.name
   
 end
